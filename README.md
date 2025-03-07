@@ -1,4 +1,4 @@
-# 🐾 Pet API  
+# 🐾 Pet API  (MVC version)
 
 ## 🎯 Overview  
 Welcome to the **Pet API**, a modern **Spring Boot-based** REST API for managing virtual pets. This API allows users to create, feed, play, and track their pets while ensuring persistent storage using **MySQL**.  
