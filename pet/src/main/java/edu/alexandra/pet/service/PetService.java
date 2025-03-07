@@ -1,7 +1,7 @@
 package edu.alexandra.pet.service;
 
-import edu.alexandra.pet.controller.request.CreatePetRequest;
-import edu.alexandra.pet.controller.request.UpdatePetRequest;
+import edu.alexandra.pet.controller.request.pet.CreatePetRequest;
+import edu.alexandra.pet.controller.request.pet.UpdatePetRequest;
 import edu.alexandra.pet.model.Pet;
 
 import java.util.List;

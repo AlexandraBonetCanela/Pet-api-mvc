@@ -1,4 +1,4 @@
-package edu.alexandra.pet.controller.request;
+package edu.alexandra.pet.controller.request.pet;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;

@@ -1,7 +1,7 @@
 package edu.alexandra.pet.service.impl;
 
-import edu.alexandra.pet.controller.request.CreatePetRequest;
-import edu.alexandra.pet.controller.request.UpdatePetRequest;
+import edu.alexandra.pet.controller.request.pet.CreatePetRequest;
+import edu.alexandra.pet.controller.request.pet.UpdatePetRequest;
 import edu.alexandra.pet.entity.PetEntity;
 import edu.alexandra.pet.exception.DatabaseException;
 import edu.alexandra.pet.mapper.PetMapper;
