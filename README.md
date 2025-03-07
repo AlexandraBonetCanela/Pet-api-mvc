@@ -3,7 +3,7 @@
 ## 🎯 Overview  
 Welcome to the **Pet API**, a modern **Spring Boot-based** REST API for managing virtual pets. This API allows users to create, feed, play, and track their pets while ensuring persistent storage using **MySQL**.  
 
-There is also an **Hexagonal Architecture** version of this project taht you can find [here](https://github.com/AlexandraBonetCanela/Pet-api-hexagonal)
+There is also an **Hexagonal Architecture** version of this project that you can find [here](https://github.com/AlexandraBonetCanela/Pet-api-hexagonal)
 
 ## 🚀 Key Features  
 ✅ **Spring MVC Architecture** – Clean and maintainable design using **Spring Boot**.  
