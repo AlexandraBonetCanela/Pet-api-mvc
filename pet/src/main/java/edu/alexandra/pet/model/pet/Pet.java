@@ -1,4 +1,4 @@
-package edu.alexandra.pet.model;
+package edu.alexandra.pet.model.pet;
 
 import lombok.EqualsAndHashCode;
 import lombok.Getter;

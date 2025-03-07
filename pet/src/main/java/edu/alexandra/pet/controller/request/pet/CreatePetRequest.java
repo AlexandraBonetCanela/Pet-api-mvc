@@ -1,6 +1,6 @@
 package edu.alexandra.pet.controller.request.pet;
 
-import edu.alexandra.pet.model.PetType;
+import edu.alexandra.pet.model.pet.PetType;
 import jakarta.validation.constraints.NotBlank;
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,9 +1,9 @@
 package edu.alexandra.pet.mapper;
 
 import edu.alexandra.pet.entity.PetEntity;
-import edu.alexandra.pet.model.Pet;
-import edu.alexandra.pet.model.PetState;
-import edu.alexandra.pet.model.PetType;
+import edu.alexandra.pet.model.pet.Pet;
+import edu.alexandra.pet.model.pet.PetState;
+import edu.alexandra.pet.model.pet.PetType;
 
 public class PetMapper {
 

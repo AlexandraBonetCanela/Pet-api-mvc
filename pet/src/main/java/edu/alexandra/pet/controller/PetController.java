@@ -4,7 +4,7 @@ package edu.alexandra.pet.controller;
 import edu.alexandra.pet.controller.request.pet.CreatePetRequest;
 import edu.alexandra.pet.controller.request.pet.UpdatePetBackgroundRequest;
 import edu.alexandra.pet.controller.request.pet.UpdatePetRequest;
-import edu.alexandra.pet.model.Pet;
+import edu.alexandra.pet.model.pet.Pet;
 import edu.alexandra.pet.service.PetService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
